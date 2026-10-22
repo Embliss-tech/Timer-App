@@ -1,0 +1,9 @@
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+# Friendly address for the stage screen: https://YOUR-SITE.netlify.app/display
+[[redirects]]
+  from = "/display"
+  to = "/display.html"
+  status = 200

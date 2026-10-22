@@ -1,0 +1,10 @@
+{
+  "name": "urpn-service-flow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unique Revival Prayer Network - service flow timer, stage display, messages and Bible verses",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@netlify/blobs": ">=8.0.0"
+  }
+}
